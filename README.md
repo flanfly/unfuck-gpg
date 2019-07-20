@@ -12,7 +12,7 @@ First, **backup your existing keyring**. This program was written in two session
 cp ~/.gnupg/pubring.gpg ~/pubring.gpg
 ```
 
-Then call build the tool, run it on your keyring and overwrite GnuPG's keyring with the filtered one.
+Then, build the tool, run it on your keyring and overwrite GnuPG's keyring with the filtered one.
 
 ```bash
 cp ~/.gnupg/pubring.gpg ./pubring.gpg
